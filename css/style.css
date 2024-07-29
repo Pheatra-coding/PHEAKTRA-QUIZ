@@ -1,0 +1,40 @@
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    color: blue;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+.homepage {
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: orange;
+    cursor: pointer;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+}
+
+.home:hover {
+    background-color: aquamarine;
+}
+
+.container:hover {
+    background-color: aquamarine;
+}
+
+
+
+
